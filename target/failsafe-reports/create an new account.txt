@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: create an new account
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 74.734 s - in create an new account

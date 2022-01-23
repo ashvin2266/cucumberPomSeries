@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Verify the total link present on Home Page
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.724 s - in Verify the total link present on Home Page
